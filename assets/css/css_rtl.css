@@ -1,0 +1,146 @@
+.wpadgu_whitelist_us
+{
+	width:100%;
+	padding:4px;
+	border:solid 1px #F0F0F0;
+	background:#F7F7F7;
+	color:#595959;
+	
+	-webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+.wpadgu_prepare_to_hide{}
+
+.wpadgu_button_button {
+    background-color: #1B99E8;
+	border:solid 1px #fff;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	font-weight:bold;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.wpadgu_button_button:hover {
+	background-color: #E4E6E9;
+	border:solid 1px #D5D7DA;
+    color: #5B5B5C;
+}
+.wpadgu_button_small {
+    background-color: #ECECEC;
+	border:solid 1px #D2D4D9;
+    color: #5B5B5C;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+	font-weight:bold;
+    margin: 4px 2px;
+    cursor: pointer;
+	max-heigth:39px;
+}
+.wpadgu_button_small:hover {
+	background-color: #E4E6E9;
+	border:solid 1px #D5D7DA;
+    color: #5B5B5C;
+}
+
+.wpadgu_modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    right: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.wpadgu_modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.wpadgu_close {
+    color: black;
+    float: left;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.wpadgu_close:hover,
+.wpadgu_close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.wpadgu_modal-header {
+    padding: 2px 16px;
+    background-color: #CC3F3F;
+    color: white;
+}
+
+.wpadgu_modal-body {padding: 2px 16px;}
+
+.wpadgu_modal-footer {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}

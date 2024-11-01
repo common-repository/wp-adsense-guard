@@ -1,0 +1,672 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: index.php conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-23 04:34+0000\n"
+"PO-Revision-Date: 2018-01-23 04:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Technoyer\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ar_EG\n"
+"X-Loco-Parser: loco_parse_php\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+#: stdin:332 stdin:333
+msgid "WP Ads Guard"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://technoyer.com/adsguard"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Wordpress ads manager and ads protection from invalid clicks, adblock and "
+"unwanted bots. Create unlimited ads for adsense, affiliates and custom "
+"banners. If you are using <strong>Google Adsense</strong>, The plugin will "
+"help you to follow the adsense guidelines."
+msgstr ""
+
+#. Author of the plugin
+msgid "Technoyer Solutions Ltd."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://technoyer.com"
+msgstr ""
+
+#: stdin:271
+msgid "Oops! Adblock Detected! Please support us, disable it for us."
+msgstr ""
+
+#: stdin:278
+msgid "AdBlock Detected!"
+msgstr "تم الكشف عن مانع ظهور الإعلانات"
+
+#: stdin:341 stdin:467 stdin:947
+msgid "WP Ads Guard Dashboard"
+msgstr " حارس إعلانات أدسنس - الرئيسية"
+
+#: stdin:342
+msgid "Dashboard"
+msgstr ""
+
+#: stdin:349
+msgid "WP Ads Guard - Ads Management"
+msgstr ""
+
+#: stdin:350
+msgid "Ads Management"
+msgstr ""
+
+#: stdin:357 stdin:614
+msgid "WP Ads Guard Settings"
+msgstr ""
+
+#: stdin:358
+msgid "Settings"
+msgstr ""
+
+#: stdin:367 stdin:368 stdin:403
+msgid "Go to Premium"
+msgstr ""
+
+#: stdin:400 stdin:464 stdin:516 stdin:548 stdin:611 stdin:944 stdin:1103 
+#: stdin:1230 stdin:1985
+msgid "Access Denied!"
+msgstr "دخول مرفوض"
+
+#: stdin:410
+msgid "What is new in the pro version?"
+msgstr ""
+
+#: stdin:411 stdin:695
+msgid "Adsense Content Guidelines Checker"
+msgstr ""
+
+#: stdin:415
+msgid "Plagiarism Checker"
+msgstr ""
+
+#: stdin:416
+msgid ""
+"For perfectly content for Google Adsense, You should be sure that your "
+"content is unique, So we have added this tool to the plugin to help you to "
+"detect the copied content before showing ads."
+msgstr ""
+
+#: stdin:419
+msgid "Spam Ads"
+msgstr ""
+
+#: stdin:420
+msgid ""
+"Yes, No limits for Google Adsense ad units per page, But we should be "
+"careful, So the plugin detects the too many ads compared to the original "
+"post content, then send notification to you, You can fix this issue or "
+"ignore it."
+msgstr ""
+
+#: stdin:423
+msgid "Illegal Content Checker"
+msgstr ""
+
+#: stdin:424
+msgid ""
+"Automatic check in order to detect any illegal content, for example: alcohol "
+"content, adult content, software cracks content, weapons (sell/buy) content, "
+"hackers content and encourage to click content, Then plugin send "
+"notification to you to fix this or ignore it."
+msgstr ""
+
+#: stdin:430
+msgid "Invalid Clicks (fraud clicks or scam clicks) Detecting"
+msgstr ""
+
+#: stdin:433
+msgid "Block Bad Bots (crawlers)"
+msgstr ""
+
+#: stdin:434
+msgid ""
+"Some crawlers, or bots while it visit your pages, it tries to open the "
+"Google Adsense link or Google Adsense iframe (which contains ads), So "
+"sometime these bots (crawler) cause invalid clicks which affect directly "
+"your monthly earnings, The plugin lets you to block these bots (crawler), If "
+"it's blocked, The ads will disappear."
+msgstr ""
+
+#: stdin:438
+msgid "Adblocker Detection"
+msgstr ""
+
+#: stdin:441 stdin:859
+msgid "Hide Content"
+msgstr ""
+
+#: stdin:442
+msgid ""
+"If the plugin detects Adblock was installed in the visitor's browser, You "
+"have the option to hide the post or page content until the visitor disable "
+"Adblock extension for your website."
+msgstr ""
+
+#: stdin:526
+msgid "Notifications"
+msgstr ""
+
+#: stdin:530
+msgid "Guard Log"
+msgstr ""
+
+#: stdin:575
+msgid "Clicks"
+msgstr ""
+
+#: stdin:576
+msgid "Exp. Date"
+msgstr ""
+
+#: stdin:583
+msgid "ago"
+msgstr ""
+
+#: stdin:588
+msgid "Are you sure?!"
+msgstr ""
+
+#: stdin:601
+msgid "Log is empty!"
+msgstr ""
+
+#: stdin:618
+msgid "Settings Saved."
+msgstr ""
+
+#: stdin:628
+msgid "Pro Feature!"
+msgstr ""
+
+#: stdin:642
+msgid "Plugin Stats"
+msgstr ""
+
+#: stdin:644 stdin:670 stdin:683 stdin:697 stdin:718 stdin:757 stdin:832 
+#: stdin:1988
+msgid "Enabled"
+msgstr ""
+
+#: stdin:645 stdin:671 stdin:684 stdin:698 stdin:719 stdin:758 stdin:833 
+#: stdin:1989
+msgid "Disabled"
+msgstr ""
+
+#: stdin:650
+msgid "Minimum Words in post/page"
+msgstr ""
+
+#: stdin:651
+msgid "Words"
+msgstr ""
+
+#: stdin:656
+msgid "Default Margin Size"
+msgstr ""
+
+#: stdin:658
+msgid "px"
+msgstr ""
+
+#: stdin:659
+msgid "Its recommended to be +12 px ."
+msgstr ""
+
+#: stdin:668
+msgid "Show Ads on Desktop Devices"
+msgstr ""
+
+#: stdin:681
+msgid "Show Ads on Smart Phones"
+msgstr ""
+
+#: stdin:694
+msgid "Adsense Options"
+msgstr ""
+
+#: stdin:699
+msgid ""
+"If you want the plugin check every post before show ads and make it "
+"compatible with Adsense guidelines."
+msgstr ""
+
+#: stdin:716
+msgid "Unique Content Checker For New Posts"
+msgstr ""
+
+#: stdin:720
+msgid "Check every new post for copied content."
+msgstr ""
+
+#: stdin:722
+msgid "Google Custom Search API"
+msgstr ""
+
+#: stdin:727 stdin:732
+msgid "Get It"
+msgstr ""
+
+#: stdin:728
+msgid "API Key"
+msgstr ""
+
+#: stdin:733
+msgid "Engin ID"
+msgstr ""
+
+#: stdin:735
+msgid "Watch Video"
+msgstr ""
+
+#: stdin:740
+msgid "Slices"
+msgstr ""
+
+#: stdin:742
+msgid ""
+"Every slice = one google search query, and you have maximum 100 queries per "
+"day for free google custom search API."
+msgstr ""
+
+#: stdin:743
+msgid "Slice contains "
+msgstr ""
+
+#: stdin:743
+msgid "Letters"
+msgstr ""
+
+#: stdin:754
+msgid "Guard Options"
+msgstr ""
+
+#: stdin:755
+msgid "Guard Status"
+msgstr ""
+
+#: stdin:763
+msgid "Maximum Clicks"
+msgstr ""
+
+#: stdin:765
+msgid "per 1 hour"
+msgstr ""
+
+#: stdin:766
+msgid "Maximum clicks for one IP per hour before hiding ads for it."
+msgstr ""
+
+#: stdin:767
+msgid "0 for disable this option."
+msgstr "أضف صفر (0) لتعطيل هذا الخيار"
+
+#: stdin:771
+msgid "Cookie Expiration"
+msgstr ""
+
+#: stdin:774 stdin:781
+msgid "In Hours"
+msgstr ""
+
+#: stdin:778
+msgid "Ban Duration"
+msgstr ""
+
+#: stdin:782 stdin:812
+msgid "They will not see the ads."
+msgstr ""
+
+#: stdin:786
+msgid "User Cookie"
+msgstr ""
+
+#: stdin:787
+msgid "User Cookie & Database"
+msgstr ""
+
+#: stdin:799
+msgid "Ban Strategy"
+msgstr ""
+
+#: stdin:804
+msgid ""
+"You are free to choose! But it is recommended to let it depends on both "
+"cookie and database."
+msgstr ""
+
+#: stdin:808
+msgid "Blacklisted Countries"
+msgstr ""
+
+#: stdin:811
+msgid "Comma Separated in ISO ALPHA-2 e.g: US,UK,EG ."
+msgstr ""
+
+#: stdin:816
+msgid "Blacklisted Bots"
+msgstr ""
+
+#: stdin:819
+msgid "Comma Separated e.g: amazonaws.com,ahrefs.com ."
+msgstr ""
+
+#: stdin:820
+msgid "Do not add the google bots to the blacklist."
+msgstr ""
+
+#: stdin:829
+msgid "Adblock Options"
+msgstr ""
+
+#: stdin:830
+msgid "Adblock Detection Status"
+msgstr ""
+
+#: stdin:856
+msgid "Adblock Detection Action"
+msgstr ""
+
+#: stdin:860
+msgid ""
+"Show some of the content and hide the rest of it in order to tell him to "
+"disable Adblock for this site."
+msgstr ""
+
+#: stdin:862
+msgid "Show Message to Visitor"
+msgstr ""
+
+#: stdin:863
+msgid ""
+"This message will appear instead of the ad. You can write a custom message."
+msgstr ""
+
+#: stdin:864
+msgid "Custom Message"
+msgstr ""
+
+#: stdin:867
+msgid "Redirect Visitor to URL"
+msgstr ""
+
+#: stdin:868
+msgid "The visitor will be redirect to the URL which you added."
+msgstr ""
+
+#: stdin:869
+msgid "Custom URL"
+msgstr ""
+
+#: stdin:873
+msgid "Delay Before Taking Action"
+msgstr ""
+
+#: stdin:874
+msgid "In Seconds"
+msgstr ""
+
+#: stdin:875
+msgid "0 (zero) for disable this option."
+msgstr "أضف صفر (0) لتعطيل هذا الخيار"
+
+#: stdin:878 stdin:2197
+msgid "Save"
+msgstr ""
+
+#: stdin:889
+msgid "You have no premissions!"
+msgstr ""
+
+#: stdin:918
+msgid "Saving ..."
+msgstr ""
+
+#: stdin:962 stdin:964 stdin:992 stdin:994 stdin:1006
+msgid "No Ads!"
+msgstr ""
+
+#: stdin:1039
+msgid "Saving, Please wait..."
+msgstr ""
+
+#: stdin:1210
+msgid "+ New Ad"
+msgstr "+إعلان جديد"
+
+#: stdin:1269
+msgid "Are you want to delete this ad?!"
+msgstr ""
+
+#: stdin:1278
+msgid "Edit"
+msgstr ""
+
+#: stdin:1279
+msgid "Delete"
+msgstr ""
+
+#: stdin:1283
+msgid "Last Update"
+msgstr ""
+
+#: stdin:1283
+msgid "By"
+msgstr ""
+
+#: stdin:1294
+msgid "All Ads"
+msgstr ""
+
+#: stdin:1295 stdin:2114
+msgid "Shortcode"
+msgstr ""
+
+#: stdin:1312
+msgid "No Ads Found!"
+msgstr ""
+
+#: stdin:1313
+msgid "Try to add new one."
+msgstr ""
+
+#: stdin:1824
+msgid "Ads"
+msgstr ""
+
+#: stdin:1990
+msgid "Shortcode Only"
+msgstr ""
+
+#: stdin:2009
+msgid "Before Content"
+msgstr ""
+
+#: stdin:2010
+msgid "Inside Content"
+msgstr ""
+
+#: stdin:2011
+msgid "After Content"
+msgstr ""
+
+#: stdin:2012
+msgid "Before Title"
+msgstr ""
+
+#: stdin:2013
+msgid "After Title"
+msgstr ""
+
+#: stdin:2014
+msgid "Footer"
+msgstr ""
+
+#: stdin:2015
+msgid "Widget"
+msgstr ""
+
+#: stdin:2028
+msgid "Center"
+msgstr ""
+
+#: stdin:2029
+msgid "Just Left"
+msgstr ""
+
+#: stdin:2030
+msgid "Left and Wrap"
+msgstr ""
+
+#: stdin:2031
+msgid "Just Right"
+msgstr ""
+
+#: stdin:2032
+msgid "Right and Wrap"
+msgstr ""
+
+#: stdin:2081
+msgid "Advertisements"
+msgstr ""
+
+#: stdin:2109
+msgid "Ads Editor"
+msgstr ""
+
+#: stdin:2120
+msgid "PHP Shortcode"
+msgstr ""
+
+#: stdin:2127
+msgid "Current Status"
+msgstr ""
+
+#: stdin:2130
+msgid "Ad name (title)"
+msgstr "إسم الإعلان"
+
+#: stdin:2134
+msgid "Place your code here"
+msgstr ""
+
+#: stdin:2139
+msgid "Position"
+msgstr ""
+
+#: stdin:2143
+msgid "Alignment"
+msgstr ""
+
+#: stdin:2157
+msgid "Display order"
+msgstr ""
+
+#: stdin:2158
+msgid "Paragraphs"
+msgstr ""
+
+#: stdin:2159
+msgid "It means, How many paragraphs will appear before the ad"
+msgstr ""
+
+#: stdin:2164 stdin:2167
+msgid "Pages"
+msgstr ""
+
+#: stdin:2165
+msgid "Home"
+msgstr ""
+
+#: stdin:2165 stdin:2168 stdin:2169 stdin:2171
+msgid "Widget & Shortcode"
+msgstr ""
+
+#: stdin:2166
+msgid "Posts"
+msgstr ""
+
+#: stdin:2166
+msgid "Post exception can be done through post editing"
+msgstr ""
+
+#: stdin:2167
+msgid "Page exception can be done through Page editing"
+msgstr ""
+
+#: stdin:2168
+msgid "Search Results"
+msgstr ""
+
+#: stdin:2169
+msgid "Categories"
+msgstr ""
+
+#: stdin:2170
+msgid "Tags"
+msgstr ""
+
+#: stdin:2170
+msgid "Widgets & Shortcode"
+msgstr ""
+
+#: stdin:2171
+msgid "404"
+msgstr ""
+
+#: stdin:2175
+msgid "Margin (Padding)"
+msgstr ""
+
+#: stdin:2180
+msgid "MISLABELING"
+msgstr ""
+
+#: stdin:2181
+msgid "Display Frame"
+msgstr ""
+
+#: stdin:2185
+msgid "Label Title"
+msgstr ""
+
+#: stdin:2187
+msgid "Leave it blank to disable title appearing"
+msgstr ""
+
+#: stdin:2191
+msgid "Label Border"
+msgstr ""
+
+#: stdin:2192
+msgid "Empty = Disable this choice."
+msgstr ""
+
+#: stdin:2198
+msgid "Close"
+msgstr ""
+
+#: stdin:2303
+msgid "IP Address Blocked!"
+msgstr ""
+
+#: stdin:2305
+msgid "IP Address"
+msgstr ""
+
+#: stdin:2305
+msgid "blocked because of maximum clicks."
+msgstr ""

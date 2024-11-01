@@ -1,0 +1,191 @@
+.wpadgu_underTD td{
+	padding:6px;
+	border-bottom: solid 1px #F1F1F1;
+	background: #FAFAFA; /* For browsers that do not support gradients */
+   
+}
+
+.wpadgu_headTD td{
+	padding:6px;
+	border-bottom: solid 1px #c9c9c9;
+	background: #F1F1F1; /* For browsers that do not support gradients */
+    font-weight:bold;
+	font-size:14px;
+}
+
+.wpadgu_grad td{
+ 	background: -webkit-linear-gradient(#F1F1F1, #FAFAFA); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#F1F1F1, #FAFAFA); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#F1F1F1, #FAFAFA); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#F1F1F1, #FAFAFA); /* Standard syntax */
+}
+
+.wpadgu_smallfont{
+	font-size:8pt;
+	color:#595858;
+}
+.wpadgu_shortcode{
+	padding:4px;
+	background:#ffffff;
+	border:solid 1px #c9c9c9;
+	width:auto;
+	color:#81C1F7;
+}
+.adguard-preview-style{display:block;!important}
+#adguard-preview-style{width:250px; height:250px; z-index:999;position:absolute;display:block;!important}
+.wpadgu_api_error{color:#646F76;}
+#wpadgu_Plag_percent{color:#AF2222;}
+#wpadgu_Unique_percent{color:#2E900B;}
+.wpadgu_total_percent{font-size:13pt;}
+.wpadgu_plagirism_view_header{
+	display:block;
+	background:#F1F1F1;
+	height:110px;
+	border-bottom:2px solid #4B4B4B;
+	position:fixed;
+	top:0px;
+	width:100%;
+	z-index:999999;
+}
+.wpadgu_plagirism_view_header table{border:0px;}
+.wpadgu_plagirism_view_header td{border:0px; padding:6px;}
+.wpadgu_plagirism_view_header p{position:absolute;top:10px;left:270px;}
+.wpadgu_plagirism_view_page{
+	position:absolute;
+	top:110px;
+	width:100%;
+}
+
+.wpadgu_button_small {
+    background-color: #ECECEC;
+	border:solid 1px #D2D4D9;
+    color: #5B5B5C;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+	font-weight:bold;
+    margin: 4px 2px;
+    cursor: pointer;
+	max-heigth:39px;
+}
+.wpadgu_button_small:hover {
+	background-color: #E4E6E9;
+	border:solid 1px #D5D7DA;
+    color: #5B5B5C;
+}
+.wpadgu_nots_notice {
+  position: relative;
+  margin: 1em;
+  background: #F9F9F9;
+  padding: 0.1em 1em 0.1em 1.5em;
+  border-left: 4px solid #DDD;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125);
+}
+
+.wpadgu_nots_notice:before {
+  position: absolute;
+  top: 50%;
+  margin-top: -17px;
+  left: -17px;
+  background-color: #DDD;
+  color: #FFF;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  text-align: center;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Georgia;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
+.wpadgu_nots_notice .wpadgu_del{
+	position:absolute;
+	top:5px;
+	right:5px;
+	padding:3px;
+	font-weight:bold;
+	font-size:11px;
+	background:#D5D5D5;
+	color:#93B9DF;
+	width:12px;
+	height:10px;
+	cursor:pointer;
+	text-align:center;
+	line-height:9px; 
+}
+.wpadgu_nots_notice .wpadgu_del:hover{
+	background:#BF4654;
+	color:#E7E1E1;
+}
+.wpadgu_nots_info {
+  border-color: #0074D9;
+}
+
+.wpadgu_nots_info:before {
+  content: "i";
+  background-color: #0074D9;
+}
+
+.wpadgu_nots_success {
+  border-color: #2ECC40;
+}
+
+.wpadgu_nots_success:before {
+  content: "√";
+  background-color: #2ECC40;
+}
+
+.wpadgu_nots_warning {
+  border-color: #FFDC00;
+}
+
+.wpadgu_nots_warning:before {
+  content: "!";
+  background-color: #FFDC00;
+}
+
+.wpadgu_nots_error {
+  border-color: #FF4136;
+}
+
+.wpadgu_nots_error:before {
+  content: "X";
+  background-color: #FF4136;
+}
+.wpadgu_nots_time{font-size:8pt; color:#74C2F4}
+.wpadgu_nots_fixed{font-size:8pt; color:#52CF0E}
+.wpadgu_nots_ignored{font-size:8pt; color:#CFA40E}
+.wpadgu_nots_tools{font-size:9pt; color:#E54210; cursor:pointer;}
+
+.wpadgu_position_choose_tempcolor td{background-color:#F9F8B8;}
+
+.wpadgu_pro {
+	background:#fff;
+	padding:12px;
+}
+.wpadgu_pro ul {
+  list-style: none;
+  padding: 0;
+}
+.wpadgu_pro li {
+  padding-left: 1.3em;
+}
+.wpadgu_pro li:before {
+  content: " "; /* FontAwesome Unicode */
+  display: inline-block;
+  margin-left: -1.3em; /* same as padding-left set on li */
+  width: 1.3em; /* same as padding-left set on li */
+}
+
+.wpadgu_disabled_div {
+    pointer-events: none;
+    opacity: 0.4;
+}
+
+.wpadgu_pro{
+	padding:3px;
+	border:solid 1px #2069BB;
+	color:#2B81E3;
+}
